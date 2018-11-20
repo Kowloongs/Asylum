@@ -1,3 +1,11 @@
 # Asylum
 
+The mission of the Asylum Portable Runtime project is to create and maintain software libraries that provides a consistent interface to underlying platform-specific implementations for Operating System facilities. These facilities include threads, thread synchronization, normal file and network I/O, interval timing and calendar time, basic memory management and shared library linking.
+
+## Overview
+
+## Guidelines
+
+## History
+
 
