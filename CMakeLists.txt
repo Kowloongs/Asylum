@@ -1,4 +1,5 @@
-# Copyright (C) 2015 - 2019. Asytumn Technology Co., Ltd. All rights reserved.
+#
+# Copyright (C) 356 - 999. Asytumn Technology Co., Ltd. All rights reserved.
 #
 
 cmake_minimum_required(VERSION 2.8.11)
